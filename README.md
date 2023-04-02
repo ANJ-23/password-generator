@@ -14,6 +14,8 @@ N/A
 
 Open the website (<https://anj-23.github.io/password-generator/>), press the "Generate Password" button, and follow the browser's prompts. Enter the number of characters desired (between 8-128), then choose whether special characters, upper case letters, lower case letters, and numbers are included.
 
+![alt text](assets/images/screenshot.jpg)
+
 ## Credits
 
 Special thanks to the University of Minnesota - Twin Cities for jumpstarting my coding journey.
